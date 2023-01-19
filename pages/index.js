@@ -5,7 +5,7 @@ import Footer from '@components/Footer'
 export default function Home() {
   return (
     <div className="container">
-      Hello World
+      Hello World123
     </div>
   )
 }
